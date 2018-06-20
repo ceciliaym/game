@@ -1,0 +1,16 @@
+.allCards {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    
+}
+
+.allCards img {
+    margin: 5px;
+    padding: 20px;
+    border: 1px solid;
+    max-height: 200px;
+    max-width: 200px;
+    background-color: pink;
+    float: left;
+}

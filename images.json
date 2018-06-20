@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Coca-Cola",
+    "clicked": false,
+    "image":
+      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0017/9579/brand.gif?itok=0GMEdPZR"
+  },
+  {
+    "id": 2,
+    "name": "Texaco",
+    "clicked": false,
+    "image":
+      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0004/5837/brand.gif?itok=mmVEK8Pn"
+  },
+  {
+    "id": 3,
+    "name": "Starbucks",
+    "clicked": false,
+    "image":
+      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/032013/starbucks_2011_true_logo_0.png?itok=1avUKqJg"
+  },
+  {
+    "id": 4,
+    "name": "GE",
+    "clicked": false,
+    "image":
+      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112015/untitled-1_220.png?itok=KgNk9SlS"
+  },
+  {
+    "id": 5,
+    "name": "Wilson",
+    "clicked": false,
+    "image":
+      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0007/1719/brand.gif?itok=BX3hEsUN"
+  },
+  {
+    "id": 6,
+    "name": "Volkswagen",
+    "clicked": false,
+    "image":
+      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0025/4205/brand.gif?itok=kvDnZka_"
+  },
+  {
+    "id": 7,
+    "name": "Beats",
+    "clicked": false,
+    "image":
+      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/032012/beats_logo.jpg?itok=n0QUXCP8"
+  },
+  {
+    "id": 8,
+    "name": "Apple",
+    "clicked": false,
+    "image":
+      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0015/7847/brand.gif?itok=LsN3DWaP"
+  },
+  {
+    "id": 9,
+    "name": "Pinterest",
+    "clicked": false,
+    "image":
+      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062012/pinterest_favicon-01.png?itok=q2_kRck8"
+  },
+  {
+    "id": 10,
+    "name": "NBC",
+    "clicked": false,
+    "image":
+      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082011/nbc.ai_.png?itok=LHcc4wxh"
+  },
+  {
+    "id": 11,
+    "name": "Twitter",
+    "clicked": false,
+    "image":
+      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/072015/twitterlogo_55acee_1.png?itok=ftqKh6Sf"
+  },
+  {
+    "id": 12,
+    "name": "WWF",
+    "clicked": false,
+    "image":
+      "https://www.google.com/search?tbm=isch&source=hp&biw=1366&bih=662&ei=KLYnW9W4GK_x5gKg-avwDg&q=hamster+thumbnails&oq=hamster+thumbnails&gs_l=img.3...1023.7427.0.7604.25.17.3.5.0.0.107.1083.15j1.16.0....0...1ac.1.64.img..1.16.943.0..0j35i39k1j0i10k1j0i8i30k1.0.zahD2kSObnU#imgrc=S46Cq0-6pvshZM:"
+  }
+]
